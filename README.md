@@ -11,15 +11,6 @@ Hello!! Eu sou o André
 🎓| Técnico em Informática - EEEP Amélia Figueiredo de Lavor <br>
 👨🏼‍🎓| Acadêmico em Sistemas de Informação - UFC
 
-##
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=andremelo001&show_icons=true&theme=radical" style="margin-right: 15px;" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andremelo001&layout=compact&langs_count=8&card_width=365&theme=radical" />
-</a>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
