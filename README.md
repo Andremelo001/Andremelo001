@@ -7,7 +7,7 @@ Hello!! Eu sou o André
 
 ##
 
-🧑🏼‍💻| Estudante de Progamação <br>
+🧑🏼‍💻| Desenvolvedor Back-End | Python | FastAPI <br>
 🎓| Técnico em Informática - EEEP Amélia Figueiredo de Lavor <br>
 👨🏼‍🎓| Acadêmico em Sistemas de Informação - UFC
 
